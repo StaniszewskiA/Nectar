@@ -1,6 +1,6 @@
 # Nectar
 
-**TODO: Add description**
+This project is the first part of my Computer Science master's degree.
 
 ## Installation
 
