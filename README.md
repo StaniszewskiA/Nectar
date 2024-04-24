@@ -2,6 +2,8 @@
 
 This project is the first part of my Computer Science master's degree.
 
+TODO: Work on concurrency
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
