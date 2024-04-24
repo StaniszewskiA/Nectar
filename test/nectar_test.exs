@@ -12,4 +12,11 @@ defmodule NectarTest do
 
     assert Nectar.Greekifier.devulgarize(input) == expected_output
   end
+
+  test "properly count number of worker process to spawn" do
+    input = 1234
+    expected_output = 24
+
+    assert Nectar.LoadBalancer.count_needed_processes(input) == expected_output
+  end
 end
