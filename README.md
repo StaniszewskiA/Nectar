@@ -1,6 +1,6 @@
 # Nectar
 
-This project is the first part of my Computer Science master's degree.
+This project is the first part of my Computer Science master's degree regarding Natural Language Processing (which I genuinely love).
 
 TODO: Work on concurrency
 
