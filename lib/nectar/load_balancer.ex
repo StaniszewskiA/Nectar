@@ -5,6 +5,6 @@ defmodule Nectar.LoadBalancer do
     IO.puts("Not implemented yed")
   end
   def count_needed_processes(files) do
-    div(files, @files_per_proces)
+    div(files, @files_per_proces) + 1
   end
 end

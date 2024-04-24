@@ -15,7 +15,7 @@ defmodule NectarTest do
 
   test "properly count number of worker process to spawn" do
     input = 1234
-    expected_output = 24
+    expected_output = 25
 
     assert Nectar.LoadBalancer.count_needed_processes(input) == expected_output
   end
